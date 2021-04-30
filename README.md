@@ -11,8 +11,6 @@ Giant Virus Database
 The GVDB consists of several data products to faciliate genomic analyses of *Nucleocytoviricota*. 
 <br/>
 <br/>
-  
- [link to Google!](http://google.com)
  
  <br/>
   
