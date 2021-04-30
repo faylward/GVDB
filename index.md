@@ -5,17 +5,17 @@ The database consists of several data products to help facilitate the genomic an
 ## Downloads
 
 ### Genomes
-Genomes used in the GVDB, their encoded proteins, protein annotations, and associated metadata [**Download**](https://zenodo.org/record/4730842#.yixcdiypaue)
+Genomes used in the GVDB, their encoded proteins, protein annotations, and associated metadata [**Download here**](https://zenodo.org/record/4730842#.yixcdiypaue)
 <br/>
 <br/>
     
 ### HMMs
-Giant Virus Orthologous Groups (GVOGs) are a set of 8,863 protein families found in *Nucleocytoviricota*. HMMs and their descriptions are provided [**Download**](https://zenodo.org/record/4728209#.YIxCviYpAUE)
+Giant Virus Orthologous Groups (GVOGs) are a set of 8,863 protein families found in *Nucleocytoviricota*. HMMs and their descriptions are provided [**Download here**](https://zenodo.org/record/4728209#.YIxCviYpAUE)
 <br/>
 <br/>
 
 ### Trees and Alignments
-Raw concatenated and per-gene alignments of marker genes used to make trees, and their associated tree files [**Download**](https://zenodo.org/record/4730955#.YIxUYyYpAUE)
+Raw concatenated and per-gene alignments of marker genes used to make trees, and their associated tree files [**Download here**](https://zenodo.org/record/4730955#.YIxUYyYpAUE)
 <br/>
 <br/>
 
