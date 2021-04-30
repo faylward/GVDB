@@ -1,36 +1,13 @@
-
-## Giant Virus Database: Genomic Resources for *Nucleocytoviricota*. Version 1.0
-### Version 1.0
-
-## Downloads
-
-<body>
-  
-The GVDB consists of several data products to faciliate genomic analyses of *Nucleocytoviricota*. 
-<br/>
-  
-Genomes used in the GVDB, their encoded proteins, protein annotations, and associated metadata can be downloaded [here](https://zenodo.org/record/4730842#.yixcdiypaue)
-<br/>
-<br/>
-    
-Giant Virus Orthologous Groups (GVOGs) are a set of 8,863 protein families found in *Nucleocytoviricota*. HMMs and their descriptions can be downloaded [**here**](https://zenodo.org/record/4728209#.YIxCviYpAUE)
-<br/>
-<br/>
-
-Raw concatenated and per-gene alignments of marker genes used to make trees, and their associated tree files, can be found [**here**](https://github.com/faylward/GVDB/edit/gh-pages/index.md)
-<br/>
-<br/>
-
-
-
-
-
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/faylward/GVDB/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+
+Genomes used in the GVDB, their encoded proteins, protein annotations, and associated metadata can be downloaded [here](https://zenodo.org/record/4730842#.yixcdiypaue)
+<br/>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
