@@ -6,6 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+Genomes used in the GVDB, their encoded proteins, protein annotations, and associated metadata can be downloaded [here](https://zenodo.org/record/4730842#.yixcdiypaue)
+<br/>
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
