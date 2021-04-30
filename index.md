@@ -5,7 +5,7 @@ The database consists of several data products to help facilitate the genomic an
 ## Downloads
 
 ### -Genomes
-Genomes used in the GVDB, their encoded proteins, protein annotations, and associated metadata can be downloaded [**here**](https://zenodo.org/record/4730842#.yixcdiypaue)
+Genomes used in the GVDB, their encoded proteins, protein annotations, and associated metadata can be downloaded [**here**](<a class="link-gray" href="https://zenodo.org/record/4730842#.yixcdiypaue">link-gray</a>)
 <br/>
 <br/>
     
