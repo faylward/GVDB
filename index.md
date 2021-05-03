@@ -2,13 +2,15 @@
 
 Here you will find a collection of data products generated from a broad range of *Nucleocytovirocita* genomes to facilitate the genomic and phylogenetic analysis of viruses in this phylum.
 
+https://github.com/faylward/GVDB/blob/gh-pages/GVDB_Genome_Descriptions.xlsx
+
 ## Resources
 
 ### Hierarchical taxonomy of reference genomes
-We produced a hierarchical taxonomy based on a benchmarked phylogeny of 1,382 Nucleocytoviricota genomes. You can view the tree on iTOL [**here**](https://itol.embl.de/tree/1281731864487941620067021) or you can access the spreadsheet of annotated genomes [**here**](https://github.com/faylward/GVDB/blob/gh-pages/GVDB_Genome_Descriptions.xlsx)
+We produced a hierarchical taxonomy based on a benchmarked phylogeny of 1,382 Nucleocytoviricota genomes. You can view the tree on iTOL [**here**](https://itol.embl.de/tree/1281731864487941620067021) 
+<br/>
+OR you can access the spreadsheet of annotated genomes [**here**](https://github.com/faylward/GVDB/blob/gh-pages/GVDB_Genome_Descriptions.xlsx)
 
-
-[**Download here**](https://zenodo.org/record/4730842#.yixcdiypaue)
 
 ### Genome and protein sequences
 Genomes used in the GVDB, their encoded proteins, protein annotations, and associated metadata <br/> [**Download here**](https://zenodo.org/record/4730842#.yixcdiypaue)
