@@ -1,6 +1,7 @@
 ## Welcome to the Giant Virus Database!
 
 Here you will find a collection of data products generated from a broad range of *Nucleocytovirocita* genomes to facilitate the genomic and phylogenetic analysis of viruses in this phylum.
+<br/>
 
 <img src="https://github.com/faylward/GVDB/blob/gh-pages/GVDB_Phylogeny.png" class="img-responsive" alt=""> </div>
 
