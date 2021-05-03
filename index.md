@@ -13,10 +13,6 @@ We produced a hierarchical taxonomy based on a benchmarked phylogeny of 1,382 *N
 <br/>
 OR you can access the spreadsheet of annotated genomes [**here**](https://github.com/faylward/GVDB/raw/gh-pages/GVDB_Genome_Descriptions.xlsx)
 <br/>
-
-<a href="https://github.com/faylward/GVDB/raw/gh-pages/GVDB_Genome_Descriptions.xlsx">Download File</a>
-
-<br/>
 <br/>
 <br/>
 <br/>
