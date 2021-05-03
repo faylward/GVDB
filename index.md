@@ -2,7 +2,7 @@
 
 Here you will find a collection of data products generated from a broad range of *Nucleocytovirocita* genomes to facilitate the genomic and phylogenetic analysis of viruses in this phylum.
 
-https://github.com/faylward/GVDB/blob/gh-pages/GVDB_Genome_Descriptions.xlsx
+https://github.com/faylward/GVDB/blob/gh-pages/GVDB_Phylogeny
 
 ## Resources
 
