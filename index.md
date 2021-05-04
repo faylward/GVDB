@@ -8,7 +8,8 @@ Here you will find a collection of data products generated from a broad range of
 ## Resources
 <br/>
 
-## <div class="text-blue mb-2">
+## 
+<div class="text-blue mb-2">
   **next heading**
 </div>
 
