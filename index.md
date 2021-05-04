@@ -6,6 +6,8 @@ Here you will find a collection of data products generated from a broad range of
 [](https://github.com/faylward/GVDB/blob/gh-pages/GVDB_Phylogeny.png)
 
 ## Resources
+<br/>
+<br/>
 
 ### Hierarchical taxonomy of reference genomes
 We produced a hierarchical taxonomy based on a benchmarked phylogeny of 1,382 *Nucleocytoviricota* genomes. You can view the tree on iTOL [**here**](https://itol.embl.de/tree/1281731864487941620067021) 
@@ -14,20 +16,14 @@ We produced a hierarchical taxonomy based on a benchmarked phylogeny of 1,382 *N
 OR you can access the spreadsheet of annotated genomes [**here**](https://github.com/faylward/GVDB/raw/gh-pages/GVDB_Genome_Descriptions.xlsx)
 <br/>
 <br/>
-<br/>
-<br/>
 
 ### Genome and protein sequences
 Genomes used in the GVDB, their encoded proteins, protein annotations, and associated metadata <br/> [**Download here**](https://zenodo.org/record/4730842#.yixcdiypaue)
 <br/>
 <br/>
-<br/>
-<br/>
 
 ### HMMs
 Giant Virus Orthologous Groups (GVOGs) are a set of 8,863 protein families found in *Nucleocytoviricota*. HMMs and their descriptions are provided  <br/> [**Download here**](https://zenodo.org/record/4728209#.YIxCviYpAUE)
-<br/>
-<br/>
 <br/>
 <br/>
 
