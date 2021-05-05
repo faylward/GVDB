@@ -33,3 +33,5 @@ Raw concatenated and per-gene alignments of marker genes used to make trees, and
 
 ### Contact
 For questions or comments please contact Frank Aylward at faylward at vt dot edu
+
+Main image: Aureococcus anophagefferens Virus. Image credit: Steven Wilhelm, Eric Gann, Chuan Xiao and Yuejiao Xian
