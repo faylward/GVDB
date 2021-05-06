@@ -8,7 +8,6 @@ We recently wrote a preprint describing these data products in detail, together 
 <br/>
 
 ## Resources
-<br/>
 
 ### Hierarchical taxonomy of reference genomes
 We produced a hierarchical taxonomy based on a benchmarked phylogeny of 1,382 *Nucleocytoviricota* genomes. You can view the tree on iTOL [**here**](https://itol.embl.de/tree/1281731864487941620067021) 
