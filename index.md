@@ -18,12 +18,12 @@ OR you can access the spreadsheet of annotated genomes [**here**](https://github
 <br/>
 
 ### Genome and protein sequences
-Genomes used in the GVDB, their encoded proteins, protein annotations, and associated metadata <br/> [**Download here**](https://zenodo.org/record/4730842#.yixcdiypaue)
+Genomes used in the GVDB, their encoded proteins, protein annotations, and associated metadata <br/> [**Download here**](https://zenodo.org/record/4730842/files/GVDB_genomes.tar.gz?download=1)
 <br/>
 <br/>
 
 ### HMMs
-Giant Virus Orthologous Groups (GVOGs) are a set of 8,863 protein families found in *Nucleocytoviricota*. HMMs and their descriptions are provided  <br/> [**Download here**](https://zenodo.org/record/4728209#.YIxCviYpAUE)
+Giant Virus Orthologous Groups (GVOGs) are a set of 8,863 protein families found in *Nucleocytoviricota*. HMMs and their descriptions are provided  <br/> [**Download here**](https://zenodo.org/record/4728209/files/GVOGs.tar.gz?download=1)
 <br/>
 <br/>
 
