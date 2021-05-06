@@ -28,7 +28,7 @@ Giant Virus Orthologous Groups (GVOGs) are a set of 8,863 protein families found
 <br/>
 
 ### Trees and Alignments
-Raw concatenated and per-gene alignments of marker genes used to make trees, and their associated tree files <br/> [**Download here**](https://zenodo.org/record/4730955#.YIxUYyYpAUE)
+Raw concatenated and per-gene alignments of marker genes used to make trees, and their associated tree files <br/> [**Download here**](https://zenodo.org/record/4740941/files/phylogenies_alignments.tar.gz?download=1)
 <br/>
 <br/>
 
