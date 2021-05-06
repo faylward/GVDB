@@ -3,7 +3,9 @@
 Here you will find a collection of data products generated from a broad range of *Nucleocytoviricota* genomes to facilitate the genomic and phylogenetic analysis of viruses in this phylum.
 <br/>
 
-[](https://github.com/faylward/GVDB/blob/gh-pages/GVDB_Phylogeny.png)
+We recently wrote a preprint describing these data products in detail, together with a taxonomy and phylogenomic framework for the *Nucleocytoviricota*. You can read it [**here**](https://www.biorxiv.org/content/10.1101/2021.05.05.442809v1?rss=1) 
+
+<br/>
 
 ## Resources
 <br/>
