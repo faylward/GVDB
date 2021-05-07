@@ -32,7 +32,7 @@ Raw concatenated and per-gene alignments of marker genes used to make trees, and
 <br/>
 <br/>
 
-#### Citation
+#### Reference
 A Phylogenomic Framework for Charting the Diversity and Evolution of Giant Viruses. FO Aylward, M Moniruzzaman, AD Ha, EV Koonin. 2021. BioRxiv. https://doi.org/10.1101/2021.05.05.442809
 
 #### Contact
